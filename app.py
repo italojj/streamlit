@@ -41,9 +41,9 @@ try:
 
     col1, col2 = st.columns(2)
     with col1:
-        st.metric("Nodes (Vertices)", G_to_display.number_of_nodes())
+        st.metric("Nodes", G_to_display.number_of_nodes())
     with col2:
-        st.metric("Edges (Links)", G_to_display.number_of_edges())
+        st.metric("Edges", G_to_display.number_of_edges())
     
     st.markdown("---")
     st.subheader("Structural Metrics")
