@@ -1,4 +1,4 @@
----------------------------------------------------------- ENGLISH VERSION ----------------------------------------------------------------
+------------------------------------------------ ENGLISH VERSION -----------------------------------------------------------
 
 User Manual: Application for Network Analysis
 
@@ -45,7 +45,7 @@ The table ranks nodes by importance according to several metrics. Click a column
 Interact: Zoom, drag nodes, and move the network.
 Configuration Panel: Use the panel at the top of the visualization to fine-tune layout, colors, and physics.
 
----------------------------------------------------------- VERSÃO EM PORTGUÊS -------------------------------------------------------------
+------------------------------------------------ VERSÃO EM PORTUGUÊS ------------------------------------------------------
 
 Manual do Usuário: Aplicativo para Análise de Redes
 
