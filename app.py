@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Network Analysis", layout="wide")
 st.title("Analysis of the 'Artificial Intelligence in Education' Network")
-st.write("This application displays the main structure of the related concepts network, after a pre-processing to focus on the most relevant nodes.")
+st.write("This application displays the main structure of the related concepts network, and it can apply filters based in the user's preference to show the most relevant nodes.")
 
 try:
     df = pd.read_csv("network_analysis.csv")
