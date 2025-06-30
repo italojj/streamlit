@@ -10,7 +10,7 @@ st.write("This application displays the main structure of the related concepts n
 
 try:
     df = pd.read_csv("network_analysis.csv")
-    st.success("Pre-processed network dataset loaded successfully!")
+    
 
     st.sidebar.header("Analysis and Visualization Options")
     
