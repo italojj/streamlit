@@ -1,4 +1,5 @@
 ------------------------------------------------ ENGLISH VERSION -----------------------------------------------------------
+
 To view the app please use the repository deployment tab or just click on this: https://italojj.github.io/streamlit/
 User Manual: Application for Network Analysis
 
